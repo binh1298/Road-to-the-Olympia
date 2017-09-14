@@ -1,4 +1,4 @@
-# High-School-Project 2: Road-to-the-Olympia-
+# High-School-Project 2: Road to the Olympia
 
 A program that shows documents from chosen directories and how much time it takes for the contenders to give the answers (based on the format of the show called "Đường lên đỉnh Olympia"). 
 
